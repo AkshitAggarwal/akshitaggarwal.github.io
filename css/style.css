@@ -6,7 +6,8 @@ body {
     width: 100%;
     font-size: 17px;
     font-family: 'Press Start 2P', 'Avenir', cursive;
-    background-color: yellow
+    background-color: #292b2c;
+    color: whitesmoke;
 }
 
 .header {
@@ -60,4 +61,13 @@ body {
         height: 150px;
         width: 150px;
     }
+}
+
+i {
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.socials {
+    color : whitesmoke;
 }
